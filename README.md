@@ -4,6 +4,7 @@
 
 
 Inspired by Eliza and Zara. Written in python to make it easier to use transformers and other ML libraries.
+![2024-11-14 10 49 49](https://github.com/user-attachments/assets/a12e213e-f0da-4f3d-8a00-7ffebe5ca822)
 
 ```
 # main.py starts the system
